@@ -1,1 +1,1 @@
-# MOOC-Java-I
+# MOOC-Java-I (University of Helsinki)
